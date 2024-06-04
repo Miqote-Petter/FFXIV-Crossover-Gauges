@@ -1,0 +1,4 @@
+## Interface: 40400
+## Title: FFXIVJobGaugeTextures
+## Notes: This is just a folder that contains FFXIV job gauge textures for WeakAuras. Have fun!
+## Author: Square Enix, FINAL FANTASY XIV
